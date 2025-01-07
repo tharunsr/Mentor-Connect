@@ -1,0 +1,173 @@
+# Mentor-Connect
+
+Spring concepts:
+
+1. Spring MVC
+
+2. Spring security
+
+3. Spring Data
+
+4. Hibernate
+ 
+Spring boot
+
+Configuration based integration
+
+Enable annotation for enabling these components
+ 
+ 
+**Java 8**
+
+- Streams
+
+- Predicate
+
+- Optional
+ 
+Core Java
+ 
+ 
+**Basic Java**
+
+------
+
+OOPS
+
+Collection
+
+	List
+
+	Map
+
+	Set
+
+Memory allocation
+
+	Heap
+
+	Stack
+
+	Configuration
+
+Loops
+
+	for
+
+	while
+
+Exception
+
+	Handiling Error
+
+	Try-catch
+
+Threads
+
+	Multi-Threading	
+
+Condition
+
+	If-else condition
+
+Test cases
+
+	Junit	
+
+Java 8 concepts	
+
+	- Streams
+
+	- Predicate
+
+	- Optional
+ 
+1) SQL concepts
+
+	1. MySQL 
+
+	2. Oracle
+
+Advanced Concepts
+
+1) Servlet
+
+2) Spring
+
+	1. Spring MVC
+
+	2. Spring security
+
+	3. Spring Data
+
+	4. Hibernate
+
+3) Spring Boot
+
+	1. Configuration based integration
+
+	2. Enable annotation for enabling these components
+ 
+Editors: eclipse, IntelliJ
+ 
+ 
+**Basic Javascript**
+
+	1) Looping
+
+	2) Bubbling
+
+	3) Closure
+
+	4) Objects
+
+	5) Functions
+
+ES6 (Ecma Script) in Javascript	
+ 
+Basic CSS
+
+CSS3	
+
+Advanced Concepts
+
+1) Bootstrap
+ 
+Advanced concepts
+
+1) Angular
+
+2) React
+ 
+1) Typescripts is for Angular/React/Jquery
+
+Core Java
+	OOPS concepts
+	Loops and conditions
+	Sorting
+	Collections
+	Practical excerises
+		- 2nd Largest numbers
+		- word count	
+Java 8
+	Streams
+	Suppliers and Consumers
+	Optional
+Spring
+	MVC 
+		- Annotations
+	Sample works
+	Configurations
+	Hibernate & JPA
+		-Annotations
+		- How do you map tables with entity
+		- OnetoOne, OneToMany, ManyToOne, ManytoMany
+		- Inbuild methods like, save(), get(), load(), delete()
+ 
+ 
+[4,5,8,2,7,1] - second largest number
+ 
+[1,3,2,2,5,3] - Find the numbers whose sum is 4
+ 
+ 
+ 
